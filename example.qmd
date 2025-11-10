@@ -9,6 +9,10 @@ format: revealjs
 - Turn off alarm
 - Get out of bed
 
+## Doing works
+- Go to work
+- Do something
+
 ## Going to sleep
 
 - Get in bed
